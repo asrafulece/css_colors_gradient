@@ -1,0 +1,13 @@
+h1 {color:red;
+}
+
+h2 {color:blue;
+}
+p {color:green;
+}
+.box {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(to right, red, yellow, green, blue, indigo, violet);
+    margin-top: 20px;
+}
